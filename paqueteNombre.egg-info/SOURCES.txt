@@ -1,0 +1,8 @@
+setup.py
+funciones/__init__.py
+funciones/funciones_matematicas.py
+funciones/uso_de_funciones.py
+paqueteNombre.egg-info/PKG-INFO
+paqueteNombre.egg-info/SOURCES.txt
+paqueteNombre.egg-info/dependency_links.txt
+paqueteNombre.egg-info/top_level.txt
